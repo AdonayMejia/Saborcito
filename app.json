@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Saborcito",
+    "slug": "Saborcito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Saborcito"
+}
